@@ -1,0 +1,10 @@
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\bin\Debug\Tic tac toe Game.exe.config
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\bin\Debug\Tic tac toe Game.exe
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\bin\Debug\Tic tac toe Game.pdb
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic tac toe Game.csprojAssemblyReference.cache
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic_tac_toe_Game.Form1.resources
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic_tac_toe_Game.Properties.Resources.resources
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic tac toe Game.csproj.GenerateResource.cache
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic tac toe Game.csproj.CoreCompileInputs.cache
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic tac toe Game.exe
+C:\Users\Kazeem Quadri\source\repos\Tic tac toe Game\Tic tac toe Game\obj\Debug\Tic tac toe Game.pdb
